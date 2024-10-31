@@ -3,4 +3,4 @@ b = int(input("Unesi broj b: "))
 
 zbroj = a + b
 
-print(zbroj)
+print(f"zbroj iznosi {zbroj}")
