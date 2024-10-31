@@ -4,3 +4,5 @@ b = int(input("Unesi broj b: "))
 zbroj = a + b
 
 print(f"zbroj iznosi {zbroj}")
+
+print("Ovo smo dodali iz githuba")
